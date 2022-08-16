@@ -1,0 +1,90 @@
+body {
+    font-family: "calibri";
+}
+
+fieldset{
+    border-radius: 7px;
+    border: 1px solid black;
+    font-size: small;
+    font-weight: 600;
+    padding: 3px 10px;
+    width: 150px;
+    float :left
+}
+#divTexto{
+    float:left;
+    width:1115px;
+}
+#texto{
+    margin: 5px;
+}
+
+#div1{
+    margin:0.3%;
+    width:1300px;
+    height:900px;
+}
+
+
+svg {
+    width:1300px;
+    height:700px;
+    preserveAspectRatio: xMidYMid;
+    background-color: lightblue;
+    border: 1px solid black;
+    border-radius: 7px;
+}
+
+legend {
+    color: white;
+    background: gray;
+    font-size: small;
+    font-weight: 600;
+    padding: 3px 10px;
+    border-radius: 7px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    font-weight: 600;
+    border-bottom: 1px solid #a8a8a8;
+}
+
+#titulo{
+    font-size: 2em;
+    text-align:center;
+}
+
+
+.province {
+    fill: white;
+    stroke: black;
+    stroke-width: 0.6;
+}
+
+.circles {
+    fill-opacity: 0.95;
+    stroke: black;
+}
+
+.textLeyend {
+    font-size:0.8em;
+}
+
+.circleLeyend {
+    fill-opacity: 0;
+    stroke: black;
+}
+
+.circleColorLeyend {
+    stroke: black;
+}
+
+.circles:hover { /*cambiar de color al pasar el ratón*/
+    fill: gray;
+}
+
+.province:hover { /*cambiar de color al pasar el ratón*/
+    fill: gray;
+}

@@ -1,0 +1,209 @@
+provincia,mes,porcentaje,casos,id
+Alicante,0,0.518,1961,03
+Albacete,0,0.527,422,02
+Almería,0,0.529,1239,04
+Ávila,0,0.58,255,05
+Barcelona,0,0.497,27857,08
+Badajoz,0,0.601,1138,06
+Burgos,0,0.58,936,09
+A Coruña,0,0.621,1397,15
+Cádiz,0,0.529,4308,11
+Cáceres,0,0.601,648,10
+Córdoba,0,0.529,4398,14
+Ciudad Real,0,0.527,852,13
+Castellón,0,0.518,766,12
+Cuenca,0,0.527,221,16
+Las Palmas,0,0.473,1451,35
+Girona,0,0.497,2258,17
+Granada,0,0.529,4740,18
+Guadalajara,0,0.527,558,19
+Huelva,0,0.529,2556,21
+Huesca,0,0.537,345,22
+Jaén,0,0.529,2718,23
+Lleida,0,0.497,929,25
+León,0,0.58,1378,24
+La Rioja,0,0.598,1090,26
+Lugo,0,0.621,406,27
+Madrid,0,0.532,14846,28
+Málaga,0,0.529,7493,29
+Murcia,0,0.505,1896,30
+Navarra,0,0.549,1522,31
+Asturias,0,0.569,1803,33
+Ourense,0,0.621,373,32
+Palencia,0,0.58,295,34
+Islas Baleares,0,0.449,2216,07
+Pontevedra,0,0.621,1105,36
+Cantabria,0,0.514,1696,39
+Salamanca,0,0.58,432,37
+Sevilla,0,0.529,8511,41
+Segovia,0,0.58,192,40
+Soria,0,0.58,100,42
+Gipuzkoa,0,0.571,1938,20
+Tarragona,0,0.497,2543,43
+Teruel,0,0.537,313,44
+Santa Cruz de Tenerife,0,0.449,3453,38
+Toledo,0,0.527,1652,45
+Valencia,0,0.518,7520,46
+Valladolid,0,0.58,1297,47
+Álava,0,0.571,811,01
+Zaragoza,0,0.537,2132,50
+Zamora,0,0.58,408,49
+Ceuta,0,0,0,51
+Melilla,0,0,0,52
+Bizkaia,0,0,0,48
+Alicante,1,0.867,18169,03
+Albacete,1,0.845,4129,02
+Almería,1,0.881,6756,04
+Ávila,1,0.91,1577,05
+Barcelona,1,0.856,149046,08
+Badajoz,1,0.946,7770,06
+Burgos,1,0.91,10515,09
+A Coruña,1,0.933,11038,15
+Cádiz,1,0.881,15603,11
+Cáceres,1,0.946,3901,10
+Córdoba,1,0.881,9220,14
+Ciudad Real,1,0.845,3648,13
+Castellón,1,0.867,6643,12
+Cuenca,1,0.845,1591,16
+Las Palmas,1,0.821,8293,35
+Girona,1,0.856,15931,17
+Granada,1,0.881,8912,18
+Guadalajara,1,0.845,2404,19
+Huelva,1,0.881,5527,21
+Huesca,1,0.877,4390,22
+Jaén,1,0.881,5801,23
+Lleida,1,0.856,7017,25
+León,1,0.91,5987,24
+La Rioja,1,0.866,4170,26
+Lugo,1,0.933,3358,27
+Madrid,1,0.87,90626,28
+Málaga,1,0.881,29581,29
+Murcia,1,0.861,12272,30
+Navarra,1,0.894,12249,31
+Asturias,1,0.917,12548,33
+Ourense,1,0.933,3783,32
+Palencia,1,0.91,3748,34
+Islas Baleares,1,0.822,22483,07
+Pontevedra,1,0.933,12712,36
+Cantabria,1,0.886,7935,39
+Salamanca,1,0.91,3669,37
+Sevilla,1,0.881,17255,41
+Segovia,1,0.91,1735,40
+Soria,1,0.91,1536,42
+Gipuzkoa,1,0.912,10611,20
+Tarragona,1,0.856,16517,43
+Teruel,1,0.877,1904,44
+Santa Cruz de Tenerife,1,0.822,11084,38
+Toledo,1,0.845,6445,45
+Valencia,1,0.867,40314,46
+Valladolid,1,0.91,8357,47
+Álava,1,0.912,3595,01
+Zaragoza,1,0.877,14883,50
+Zamora,1,0.91,2755,49
+Ceuta,1,0,0,51
+Melilla,1,0,0,52
+Bizkaia,1,0,0,48
+Alicante,2,0.927,14641,03
+Albacete,2,0.909,2928,02
+Almería,2,0.936,5491,04
+Ávila,2,0.935,1235,05
+Barcelona,2,0.882,37114,08
+Badajoz,2,0.968,5867,06
+Burgos,2,0.935,2669,09
+A Coruña,2,0.957,9705,15
+Cádiz,2,0.936,9277,11
+Cáceres,2,0.968,5114,10
+Córdoba,2,0.936,5246,14
+Ciudad Real,2,0.909,3483,13
+Castellón,2,0.927,3445,12
+Cuenca,2,0.909,1623,16
+Las Palmas,2,0.877,5820,35
+Girona,2,0.882,5824,17
+Granada,2,0.936,6054,18
+Guadalajara,2,0.909,2026,19
+Huelva,2,0.936,5109,21
+Huesca,2,0.923,2121,22
+Jaén,2,0.936,5286,23
+Lleida,2,0.882,3229,25
+León,2,0.935,1948,24
+La Rioja,2,0.937,2774,26
+Lugo,2,0.957,2899,27
+Madrid,2,0.915,53249,28
+Málaga,2,0.936,13832,29
+Murcia,2,0.928,10513,30
+Navarra,2,0.927,5106,31
+Asturias,2,0.951,3528,33
+Ourense,2,0.957,1573,32
+Palencia,2,0.935,941,34
+Islas Baleares,2,0.861,11462,07
+Pontevedra,2,0.957,6871,36
+Cantabria,2,0.934,4807,39
+Salamanca,2,0.935,1876,37
+Sevilla,2,0.936,17428,41
+Segovia,2,0.935,916,40
+Soria,2,0.935,527,42
+Gipuzkoa,2,0.936,5870,20
+Tarragona,2,0.882,4906,43
+Teruel,2,0.923,972,44
+Santa Cruz de Tenerife,2,0.861,5517,38
+Toledo,2,0.909,7713,45
+Valencia,2,0.927,12993,46
+Valladolid,2,0.935,3821,47
+Álava,2,0.936,3065,01
+Zaragoza,2,0.923,6504,50
+Zamora,2,0.935,840,49
+Ceuta,2,0,0,51
+Melilla,2,0,0,52
+Bizkaia,2,0,0,48
+Alicante,3,0.943,2850,03
+Albacete,3,0.919,764,02
+Almería,3,0.951,1785,04
+Ávila,3,0.949,241,05
+Barcelona,3,0.913,11972,08
+Badajoz,3,0.977,1228,06
+Burgos,3,0.949,584,09
+A Coruña,3,0.965,1357,15
+Cádiz,3,0.951,1317,11
+Cáceres,3,0.977,778,10
+Córdoba,3,0.951,756,14
+Ciudad Real,3,0.919,1027,13
+Castellón,3,0.943,976,12
+Cuenca,3,0.919,417,16
+Las Palmas,3,0.894,1756,35
+Girona,3,0.913,2219,17
+Granada,3,0.951,1246,18
+Guadalajara,3,0.919,425,19
+Huelva,3,0.951,1089,21
+Huesca,3,0.936,573,22
+Jaén,3,0.951,673,23
+Lleida,3,0.913,1262,25
+León,3,0.949,447,24
+La Rioja,3,0.955,499,26
+Lugo,3,0.965,656,27
+Madrid,3,0.931,13164,28
+Málaga,3,0.951,2913,29
+Murcia,3,0.948,2917,30
+Navarra,3,0.939,1181,31
+Asturias,3,0.96,562,33
+Ourense,3,0.965,426,32
+Palencia,3,0.949,228,34
+Islas Baleares,3,0.885,2790,07
+Pontevedra,3,0.965,924,36
+Cantabria,3,0.955,1458,39
+Salamanca,3,0.949,457,37
+Sevilla,3,0.951,3521,41
+Segovia,3,0.949,169,40
+Soria,3,0.949,105,42
+Gipuzkoa,3,0.945,1799,20
+Tarragona,3,0.913,1469,43
+Teruel,3,0.936,354,44
+Santa Cruz de Tenerife,3,0.885,1293,38
+Toledo,3,0.919,1907,45
+Valencia,3,0.943,2934,46
+Valladolid,3,0.949,644,47
+Álava,3,0.945,671,01
+Zaragoza,3,0.936,2256,50
+Zamora,3,0.949,154,49
+Ceuta,3,0,0,51
+Melilla,3,0,0,52
+Bizkaia,3,0,0,48

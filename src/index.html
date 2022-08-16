@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html>
+  <head>
+    <title>Visualización</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://unpkg.com/d3@5.6.0/dist/d3.min.js"> </script>
+    <script src="https://unpkg.com/topojson@3.0.2/dist/topojson.min.js"></script> <!-- importar topoJSON -->
+  </head>
+
+  <body>
+  <header>
+    <span>Diseño y Evaluación de Sistemas Interactivos, Grado Ing. Informática, UVA</span>
+    <span>Marta Jiménez</span>
+  </header>
+  <div id="div1">
+    <h1 id="titulo">Casos diagnosticados de coronavirus vs. Porcentaje de población vacunada</h1>
+    <div>
+      <div>
+        <svg></svg>
+      </div>
+      <fieldset>
+        <legend>Filtro fecha</legend>
+        <label for="ctrl_mes">Mes: </label>
+        <select id="ctrl_mes">
+          <option value="0">Junio 2021</option>
+          <option value="1">Julio 2021</option>
+          <option value="2">Agosto 2021</option>
+          <option value="3">Septiembre 2021</option>
+        </select>
+      </fieldset>
+      <div id="divTexto">
+        <p id="texto"><b>Información sobre los datos:</b>  <br>
+          El tamaño de los circulos representa el total de casos diagnosticados en un mes y el color
+          representa el porcentaje de personas vacunadas mayores de 40 años a final de mes en cada comunidad autónoma.
+        </p>
+      </div>
+    </div>
+
+  </div>
+  <script src="index.js"></script>
+
+
+  </body>
+  <script src="index.js"></script>
+</html>
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+
